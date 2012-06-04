@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center" >
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="60sp" />
+    
+    <TextView 
+        android:id="@+id/contadorTextView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="45sp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:paddingBottom="60sp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/iniciarSesionButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/iniciar"
+        android:background="@drawable/boton_verde"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:id="@+id/cancelarPausaView"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="horizontal"
+	    android:visibility="gone" >
+	    
+	    <Button
+	        android:id="@+id/cancelarSesionButton"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="@string/cancelar"
+	        android:background="@drawable/boton_rojo"
+	        android:textColor="#ffffff"
+        	android:textStyle="bold"
+        	android:layout_marginRight="4dp" />
+	
+	    <Button
+	        android:id="@+id/pausarSesionButton"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="@string/pausa"
+	        android:background="@drawable/boton_gris"
+	        android:textColor="#ffffff"
+        	android:textStyle="bold" />
+	    
+	    <Button
+	        android:id="@+id/reanudarSesionButton"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_weight="1"
+	        android:text="@string/reanudar"
+	        android:background="@drawable/boton_gris"
+	        android:textColor="#ffffff"
+        	android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>

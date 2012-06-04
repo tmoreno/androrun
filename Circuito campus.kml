@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<Placemark>
+		<name>Posicion 1</name>
+		<Point>
+			<coordinates>-1.167361406480934,38.01662129876169,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 2</name>
+		<Point>
+			<coordinates>-1.167435250230589,38.01624782761584,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 3</name>
+		<Point>
+			<coordinates>-1.167492268171857,38.0160100014004,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 4</name>
+		<Point>
+			<coordinates>-1.167516852363739,38.01579017663897,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 5</name>
+		<Point>
+			<coordinates>-1.16759425735001,38.01551012384949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 6</name>
+		<Point>
+			<coordinates>-1.167772857672141,38.01534523542905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 7</name>
+		<Point>
+			<coordinates>-1.167702321321381,38.01514596349774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 8</name>
+		<Point>
+			<coordinates>-1.16776985400005,38.01478245307697,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 9</name>
+		<Point>
+			<coordinates>-1.167845684605176,38.01449516809196,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 10</name>
+		<Point>
+			<coordinates>-1.16796885249854,38.01404387573748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 11</name>
+		<Point>
+			<coordinates>-1.168068930986197,38.01359718943029,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 12</name>
+		<Point>
+			<coordinates>-1.168249447987484,38.01311140749089,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 13</name>
+		<Point>
+			<coordinates>-1.168499029730636,38.01288185665143,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 14</name>
+		<Point>
+			<coordinates>-1.168841797115862,38.01276408326135,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 15</name>
+		<Point>
+			<coordinates>-1.169084565573718,38.0127662449826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 16</name>
+		<Point>
+			<coordinates>-1.169551669823198,38.01273734901173,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 17</name>
+		<Point>
+			<coordinates>-1.16995556878992,38.01280763455419,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 18</name>
+		<Point>
+			<coordinates>-1.170618021448808,38.01275512199304,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 19</name>
+		<Point>
+			<coordinates>-1.171083112264778,38.01268154561451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 20</name>
+		<Point>
+			<coordinates>-1.171642492982784,38.01267360100611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 21</name>
+		<Point>
+			<coordinates>-1.172145522306779,38.01278540447864,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 22</name>
+		<Point>
+			<coordinates>-1.172491864790122,38.01292381075134,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 23</name>
+		<Point>
+			<coordinates>-1.172830372624815,38.01312313208218,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 24</name>
+		<Point>
+			<coordinates>-1.173074578052994,38.01333936861426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 25</name>
+		<Point>
+			<coordinates>-1.173304241064263,38.01365019171848,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 26</name>
+		<Point>
+			<coordinates>-1.173438810336868,38.01392358147803,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 27</name>
+		<Point>
+			<coordinates>-1.173542047629892,38.01422835167941,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 28</name>
+		<Point>
+			<coordinates>-1.173662855118075,38.01454726953904,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 29</name>
+		<Point>
+			<coordinates>-1.173560692819005,38.0147737235973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Posicion 30</name>
+		<Point>
+			<coordinates>-1.173667519500196,38.0148604116584,0</coordinates>
+		</Point>
+	</Placemark>
+</kml>

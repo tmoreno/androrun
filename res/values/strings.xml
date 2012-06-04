@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroRun</string>
+	<string name="aceptar">Aceptar</string>
+    <string name="logo">logo</string>
+    	
+    <string name="nuevaSesion">Nueva sesión</string>
+    <string name="historial">Historial</string>
+    
+    <string name="iniciar">Iniciar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="pausa">Pausa</string>
+    <string name="reanudar">Reanudar</string>
+    <string name="finSesionAlerta">Fin de sesión!</string>
+    <string name="finSesion">La sesión ha terminado</string>
+    
+    <string name="gpsDesactivado">El GPS está desactivado, actívelo para poder registrar la sesión</string>
+    <string name="borrarSesion">¿Desea borrar la sesión?</string>
+    
+    <string name="capas">Capas</string>
+    <string name="mapa">Mapa</string>
+    <string name="satelite">Satélite</string>
+    
+    <string name="licencia">Licencia</string>
+</resources>

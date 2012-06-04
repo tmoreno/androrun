@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroRun</string>
+	<string name="aceptar">Acept</string>
+    <string name="logo">logo</string>
+    	
+    <string name="nuevaSesion">New session</string>
+    <string name="historial">History</string>
+    
+    <string name="iniciar">Start</string>
+    <string name="cancelar">Cancel</string>
+    <string name="pausa">Pause</string>
+    <string name="reanudar">Restart</string>
+    <string name="finSesionAlerta">End of session!</string>
+    <string name="finSesion">The session is finished</string>
+    
+    <string name="gpsDesactivado">The GPS is disabled, enable it to record the session</string>
+    <string name="borrarSesion">Do you want to delete the session?</string>
+    
+    <string name="capas">Layers</string>
+    <string name="mapa">Map</string>
+    <string name="satelite">Satellite</string>
+    
+    <string name="licencia">License</string>
+</resources>
